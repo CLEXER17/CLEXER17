@@ -1,4 +1,4 @@
-[README.md](https://github.com/user-attachments/files/29677696/README.md)
+[README.md](https://github.com/user-attachments/files/29677737/README.md)
 <div align="center">
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=CLEXER17&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Aspiring%20Doctor&descAlignY=55&descSize=18)
@@ -203,8 +203,6 @@ Provides a repeatable pipeline for containerizing and serving models so they can
 
 ## Certifications
 
-> *Add your certification badges here as you earn them (AWS, Oracle, NPTEL, Cisco, etc.)*
-
 ![AWS](https://img.shields.io/badge/AWS-Certification%20Pending-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-Certification%20Pending-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![NPTEL](https://img.shields.io/badge/NPTEL-Certification%20Pending-8A2BE2?style=for-the-badge)
@@ -213,8 +211,6 @@ Provides a repeatable pipeline for containerizing and serving models so they can
 ---
 
 ## Coding Profiles
-
-> *Add your handles to activate these badges.*
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-CLEXER17-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/CLEXER17)
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-CLEXER17-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/CLEXER17)
@@ -276,8 +272,6 @@ Personal Goal: "Marry Sonali Baisakh"
 
 [![Gmail](https://img.shields.io/badge/Gmail-privatelimitedcoprate%40gmail.com-8A2BE2?style=for-the-badge&logo=gmail&logoColor=white)](mailto:privatelimitedcoprate@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-CLEXER17-4B0082?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CLEXER17)
-
-> *Add your LinkedIn and Portfolio links above once available.*
 
 ---
 
